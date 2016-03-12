@@ -1,0 +1,15 @@
+{
+	"main": "index.html",
+	"name": "SilverTest",
+	"window": 
+	{
+		"toolbar"	: false,
+		"frame"		: false,
+		"icon" 		: "./src/favicon.png",
+		"min_width" : 300,
+		"min_height": 300,
+		"resizable" : true,
+		"show_in_taskbar" : true,
+		"fullscreen": false
+	}
+}
