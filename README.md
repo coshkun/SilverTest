@@ -8,3 +8,5 @@ Another NukeZone 4 my NWjs app
 * jQuery 2.2.1 (this is not necessary, you can delete if no need or upgrade fm: http://jquery.com)
 
 #### Not: take attention to grab from 'master' branch. development or other branches may include unstable clones.
+
+![A sample SS from running copy.](https://pbs.twimg.com/media/CdTngQWWIAAKHfo.jpg)
